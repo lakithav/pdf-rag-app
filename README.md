@@ -1,14 +1,14 @@
 # 📄 PDF RAG Application
 
 A Retrieval-Augmented Generation (RAG) app that answers questions 
-from a provided PDF document — built entirely with free tools.
+from a provided PDF document - built entirely with free tools.
 
 ## 🛠️ Tech Stack
-- **LangChain** — RAG pipeline & document processing
-- **FAISS** — Vector similarity search
-- **HuggingFace** — Sentence embeddings (all-MiniLM-L6-v2)
-- **Groq API (Llama 3.3)** — Free LLM for answer generation
-- **Google Colab** — Free cloud runtime
+- **LangChain** - RAG pipeline & document processing
+- **FAISS** - Vector similarity search
+- **HuggingFace** - Sentence embeddings (all-MiniLM-L6-v2)
+- **Groq API (Llama 3.3)** - Free LLM for answer generation
+- **Google Colab** - Free cloud runtime
 
 ## 🚀 How It Works
 1. PDF is loaded and split into chunks
